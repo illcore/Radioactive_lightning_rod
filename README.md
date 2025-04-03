@@ -1,1 +1,6 @@
-# Radioactive_lightning_rod
+# A radioactive lightning rod in GEANT4
+* Cs-137 source;
+* Multi-particle source consisting of beta as well as gamma;
+* Aluminum spherical shell and disc;
+* Iron rod.
+  
